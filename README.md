@@ -12,7 +12,7 @@ This repository is a project that I created for a Udacity course. This is my att
 
 ### Screenshot of the project
 
-![Screenshot](justjava.png)
+![Screenshot](/blob/master/justjava.PNG)
 
 
 ## Author
