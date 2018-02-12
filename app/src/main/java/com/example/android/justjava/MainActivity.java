@@ -14,7 +14,6 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.TextView;
-
 import java.text.NumberFormat;
 
 /**
@@ -24,7 +23,6 @@ public class MainActivity extends AppCompatActivity {
 
     int quantity = 0;
     int pricePerCoffee = 5;
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -43,7 +41,6 @@ public class MainActivity extends AppCompatActivity {
         if (quantity > 0) {
             quantity = quantity - 1;
         }
-
         display(quantity);
         displayPrice(quantity * pricePerCoffee);
 
