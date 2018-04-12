@@ -9,6 +9,13 @@ This repository is a project that I created for a Udacity course. This is my att
 3. I created [Github Just Java Project repo](https://github.com/roylouislgarcia/justJava.git) on Github as an empty repository.
 4. I used the program "Github Desktop" for Win10 to link this remote git to the local folder I created for the projects. 
 
+## Contributing
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
 
 ### Screenshot of the project
 
